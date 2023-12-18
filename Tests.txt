@@ -1,0 +1,6 @@
+Входные данные:  bbee gea acc cddiii ffg gg g
+Результат: abcdefgi
+Входные данные: Hello World My name ISROMAN
+Результат: adehilmnorswy
+Входные данные: 32131London is the Capital of4434GreatBritan
+Результат: 1234abcdefghilnoprst
